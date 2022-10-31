@@ -1,0 +1,20 @@
+LiftOff Project Outline
+
+We are creating a travel blog where users can post details about their recent travels, focusing on unusual or easily missed treasures in those locations. Each user would have their own profile, idealy with options for privacy settings, where they could access a list of their posts. Users would also be able to search through their own posts, and the posts of other users, for interesting things to do on future travels to specific areas.
+
+Features
+- User Login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+- Search: Users will be able to search their own or other users' blog posts containing given text, or tags.
+- Create Post: Users will be able to create new blog posts when logged in. New posts will appear in the user's profile.
+- Upload Images: Users will be able to upload images of their travels to their posts.
+- Friend/Follow: Users will be able to friend or follow other users so that the other users posts will appear in a feed.
+- Google Maps: Ingrate Google Maps so that pins can be dropped to show the locations of the cool things in the blogs.
+
+Technologies
+Java, Spring Boot, MySQL, Hibernate, Theymeleaf, JavaScript(if we decide we want comments and fancy post feeds)
+
+What I'll have to learn
+How to integrate a JavaScript front end, if we decide to go that route. And how to use the Google Maps API with Java or Node.js
+
+Project Tracker
+https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022
