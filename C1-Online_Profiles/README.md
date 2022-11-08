@@ -7,10 +7,19 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+https://github.com/Momtoast
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/melissa-matos-7696b0b8/
+
+### Project Repository
+https://github.com/AhleemAkinwande/Lift-off-Group-Project
+
+### Trello Board
+https://trello.com/b/DycAZ9Qb/liftoff-project-board-fall-2022
+
+### Wireframes in Miro
+https://miro.com/app/board/uXjVPISdpwo=/?share_link_id=329293491144
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
